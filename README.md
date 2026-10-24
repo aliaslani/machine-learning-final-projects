@@ -2,8 +2,6 @@
 
 > **مخاطب:** فارغ‌التحصیلان دوره یادگیری ماشین
 > **مدل‌های پوشش داده‌شده:** Linear Regression، Multiple Regression، Gradient Descent، Logistic Regression، KNN، Decision Tree، Random Forest، SVM
-> **سطح:** متوسط. نه آن‌قدر ساده که فقط `fit` و `predict` باشد، نه آن‌قدر پیچیده که دانشجو گیر کند.
-> **زمان پیشنهادی هر پروژه:** ۱ تا ۲ هفته (فردی) یا ۱ هفته (تیم دو نفره)
 
 ---
 
